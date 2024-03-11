@@ -228,7 +228,7 @@ public class Main {
                 System.out.println("Периметр: " + square.perimeter());
                 break;
             case 3:
-                System.out.println("Введите сторону пятиугольника:");
+                System.out.println("Введите сторону треугольник:");
                 double side1 = sc.nextDouble();
                 double side2 = sc.nextDouble();
                 double side3 = sc.nextDouble();
